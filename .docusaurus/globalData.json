@@ -1,0 +1,229 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-01",
+              "path": "/docs/Linq/chapter/chapter-01",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-02",
+              "path": "/docs/Linq/chapter/chapter-02",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-03",
+              "path": "/docs/Linq/chapter/chapter-03",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-04",
+              "path": "/docs/Linq/chapter/chapter-04",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-05",
+              "path": "/docs/Linq/chapter/chapter-05",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-06",
+              "path": "/docs/Linq/chapter/chapter-06",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-07",
+              "path": "/docs/Linq/chapter/chapter-07",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-08",
+              "path": "/docs/Linq/chapter/chapter-08",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-09",
+              "path": "/docs/Linq/chapter/chapter-09",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-10",
+              "path": "/docs/Linq/chapter/chapter-10",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-11",
+              "path": "/docs/Linq/chapter/chapter-11",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-12",
+              "path": "/docs/Linq/chapter/chapter-12",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-13",
+              "path": "/docs/Linq/chapter/chapter-13",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-14",
+              "path": "/docs/Linq/chapter/chapter-14",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "Linq/chapter/chapter-15",
+              "path": "/docs/Linq/chapter/chapter-15",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Linq/intro",
+              "path": "/docs/Linq/intro",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-01",
+              "path": "/docs/SQL/chapter/chapter-01",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-02",
+              "path": "/docs/sql/chapter-02",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-03",
+              "path": "/docs/SQL/chapter/chapter-03",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-04",
+              "path": "/docs/SQL/chapter/chapter-04",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-05",
+              "path": "/docs/SQL/chapter/chapter-05",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-06",
+              "path": "/docs/SQL/chapter/chapter-06",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-07",
+              "path": "/docs/SQL/chapter/chapter-07",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-08",
+              "path": "/docs/SQL/chapter/chapter-08",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-09",
+              "path": "/docs/SQL/chapter/chapter-09",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-10",
+              "path": "/docs/SQL/chapter/chapter-10",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-11",
+              "path": "/docs/SQL/chapter/chapter-11",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-12",
+              "path": "/docs/SQL/chapter/chapter-12",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-13",
+              "path": "/docs/SQL/chapter/chapter-13",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-14",
+              "path": "/docs/SQL/chapter/chapter-14",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-15",
+              "path": "/docs/SQL/chapter/chapter-15",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-16",
+              "path": "/docs/SQL/chapter/chapter-16",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-17",
+              "path": "/docs/SQL/chapter/chapter-17",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-18",
+              "path": "/docs/SQL/chapter/chapter-18",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-19",
+              "path": "/docs/SQL/chapter/chapter-19",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SQL/chapter/chapter-20",
+              "path": "/docs/SQL/chapter/chapter-20",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SQL/intro",
+              "path": "/docs/sql/intro",
+              "sidebar": "learningSidebar"
+            },
+            {
+              "id": "/category/tutor",
+              "path": "/docs/category/tutor",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            },
+            "learningSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

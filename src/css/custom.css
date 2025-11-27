@@ -1,0 +1,318 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #1a5fb4;
+  --ifm-color-primary-dark: #1755a2;
+  --ifm-color-primary-darker: #165199;
+  --ifm-color-primary-darkest: #12427e;
+  --ifm-color-primary-light: #1d68c6;
+  --ifm-color-primary-lighter: #1e6dcf;
+  --ifm-color-primary-lightest: #2b7ce0;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #62a0ea;
+  --ifm-color-primary-dark: #458ee6;
+  --ifm-color-primary-darker: #3685e4;
+  --ifm-color-primary-darkest: #1b6ccd;
+  --ifm-color-primary-light: #7fb2ee;
+  --ifm-color-primary-lighter: #8ebbf0;
+  --ifm-color-primary-lightest: #bad5f6;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* ===========================
+   FONT IMPORTS
+   =========================== */
+@font-face {
+  font-family: 'Lexend';
+  src: url('/fonts/Lexend-Regular.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lexend';
+  src: url('/fonts/Lexend-Medium.ttf') format('ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'JetBrains Mono';
+  src: url('/fonts/JetBrainsMono-Regular.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'JetBrains Mono';
+  src: url('/fonts/JetBrainsMono-Medium.ttf') format('ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+/* ===========================
+   GLOBAL FONT SETTINGS
+   =========================== */
+:root {
+  --ifm-font-family-base: 'Lexend', sans-serif;
+  --ifm-font-family-monospace: 'JetBrains Mono', monospace;
+
+  --ifm-font-weight-normal: 400;
+  --ifm-font-weight-medium: 500;
+
+  --ifm-font-size-base: 16.5px;
+}
+
+/* Smoother text rendering */
+html {
+  font-family: var(--ifm-font-family-base);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ===========================
+   CHATGPT-LIKE TEXT STYLE
+   =========================== */
+/* p {
+  line-height: 1.75;
+  font-size: 1.02rem;
+  margin: 0.8rem 0;
+} */
+
+/* h1, h2, h3 {
+  font-weight: 500;
+  margin-top: 2.4rem;
+  margin-bottom: 1rem;
+  letter-spacing: -0.01em;
+}
+
+h1 {
+  font-size: 2.1rem;
+}
+h2 {
+  font-size: 1.7rem;
+}
+h3 {
+  font-size: 1.35rem;
+} */
+
+/* ===========================
+   CHATGPT-STYLE CODE BLOCKS
+   =========================== */
+
+.codeBlock,
+.prism-code {
+  border-radius: 12px !important;
+  padding: 1.1rem !important;
+  background: #f7f8fa !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+  font-family: 'JetBrains Mono', monospace !important;
+  font-size: 0.94rem !important;
+}
+
+/* Inline code */
+code {
+  /* background: #f3f4f6; */
+  padding: 2px 5px;
+  border-radius: 5px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.92rem;
+}
+
+/* ===========================
+   PAGE LAYOUT REFINEMENTS
+   =========================== */
+
+/* Clean max-width like ChatGPT */
+/* .container {
+  max-width: 880px !important;
+} */
+
+/* Section spacing */
+.markdown>* {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Gentle shadows for cards */
+.theme-doc-markdown>div,
+.theme-doc-content>div {
+  border-radius: 12px;
+}
+
+/* Navbar slight shadow like ChatGPT */
+.navbar {
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.08) !important;
+}
+
+/* Smooth transitions */
+body,
+.navbar,
+.menu,
+.theme-doc-sidebar-container {
+  transition: all 0.25s ease;
+}
+
+/* ===========================
+   DARK THEME STYLES
+   (append to src/css/custom.css)
+   =========================== */
+
+/* Use the Docusaurus theme attribute for dark styles */
+html[data-theme='dark'] {
+  --bg: #0b0f13;
+  /* page background */
+  --surface: #0f1418;
+  /* card / code surface */
+  --muted: #9aa4af;
+  /* secondary text */
+  --text: #e6eef3;
+  /* primary text */
+  --accent: #10a37f;
+  /* accent (chatgpt green) */
+  --code-bg: #071120;
+  /* code block background */
+  --border: rgba(255, 255, 255, 0.06);
+  --shadow: rgba(2, 6, 23, 0.6);
+}
+
+/* Page background & main text */
+html[data-theme='dark'] body,
+html[data-theme='dark'] .main-wrapper {
+  background: var(--bg) !important;
+  color: var(--text) !important;
+}
+
+/* Content surface (cards, code containers) */
+html[data-theme='dark'] .theme-doc-markdown,
+html[data-theme='dark'] .theme-doc-content,
+html[data-theme='dark'] .container {
+  background: transparent !important;
+}
+
+/* Code blocks (prism) */
+html[data-theme='dark'] .prism-code,
+html[data-theme='dark'] pre[class*="language-"],
+html[data-theme='dark'] .codeBlock {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0.01)) !important;
+  background-color: var(--code-bg) !important;
+  color: var(--text) !important;
+  border: 1px solid rgba(255, 255, 255, 0.04) !important;
+  box-shadow: 0 6px 20px var(--shadow) !important;
+}
+
+/* Inline code */
+html[data-theme='dark'] code {
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text);
+  padding: 2px 6px;
+  border-radius: 6px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.92rem;
+}
+
+/* Headings color */
+html[data-theme='dark'] h1,
+html[data-theme='dark'] h2,
+html[data-theme='dark'] h3 {
+  color: var(--text);
+}
+
+/* Paragraph muted color */
+html[data-theme='dark'] p,
+html[data-theme='dark'] .markdown p,
+html[data-theme='dark'] .theme-doc-content {
+  color: var(--muted);
+}
+
+/* Navbar */
+html[data-theme='dark'] .navbar {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.01), rgba(255, 255, 255, 0.00));
+  box-shadow: 0 2px 12px rgba(2, 6, 23, 0.6) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.02);
+}
+
+/* Sidebar */
+html[data-theme='dark'] .theme-doc-sidebar-container {
+  background: transparent;
+  border-right: 1px solid rgba(255, 255, 255, 0.03);
+}
+
+/* TOC (right meta sidebar) */
+html[data-theme='dark'] .theme-doc-toc-desktop {
+  background: transparent;
+  color: var(--muted);
+  border-left: 1px solid rgba(255, 255, 255, 0.02);
+}
+
+/* Links & accents */
+html[data-theme='dark'] a {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+/* Code line numbers (if enabled) */
+html[data-theme='dark'] .gatsby-highlight .line-number {
+  color: rgba(255, 255, 255, 0.18);
+}
+
+/* Copy button (code blocks) */
+html[data-theme='dark'] .gatsby-code-button {
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--muted);
+  border: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+/* Buttons / pills */
+html[data-theme='dark'] .button,
+html[data-theme='dark'] .badge {
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text);
+  border: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+/* Adjust shadows and borders to be subtle */
+html[data-theme='dark'] .card,
+html[data-theme='dark'] .panel,
+html[data-theme='dark'] .theme-doc-markdown>div {
+  box-shadow: 0 8px 30px rgba(2, 6, 23, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.03);
+}
+
+/* Ensure code font remains JetBrains Mono */
+html[data-theme='dark'] pre,
+html[data-theme='dark'] code,
+html[data-theme='dark'] .prism-code {
+  font-family: 'JetBrains Mono', monospace !important;
+}
+
+/* Cosmetic: slightly darker horizontal rule */
+html[data-theme='dark'] hr {
+  border-color: rgba(255, 255, 255, 0.03);
+}
+
+/* Make sure focus outlines are visible in dark mode */
+html[data-theme='dark'] :focus {
+  outline: 2px solid rgba(16, 163, 127, 0.18);
+  outline-offset: 2px;
+}
+
+/* Remove the # anchor icon from headings */
+.theme-doc-markdown h1 .anchor,
+.theme-doc-markdown h2 .anchor,
+.theme-doc-markdown h3 .anchor,
+.theme-doc-markdown h4 .anchor,
+.theme-doc-markdown h5 .anchor,
+.theme-doc-markdown h6 .anchor {
+  display: none !important;
+}
