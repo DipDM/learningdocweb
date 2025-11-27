@@ -34,28 +34,28 @@
    =========================== */
 @font-face {
   font-family: 'Lexend';
-  src: url('/fonts/Lexend-Regular.ttf') format('ttf');
+  src: url('/fonts/Lexend-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Lexend';
-  src: url('/fonts/Lexend-Medium.ttf') format('ttf');
+  src: url('/fonts/Lexend-Medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'JetBrains Mono';
-  src: url('/fonts/JetBrainsMono-Regular.ttf') format('ttf');
+  src: url('/fonts/JetBrainsMono-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'JetBrains Mono';
-  src: url('/fonts/JetBrainsMono-Medium.ttf') format('ttf');
+  src: url('/fonts/JetBrainsMono-Medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
 }
