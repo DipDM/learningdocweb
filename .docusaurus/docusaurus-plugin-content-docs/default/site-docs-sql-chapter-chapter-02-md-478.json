@@ -1,0 +1,30 @@
+{
+  "id": "SQL/chapter/chapter-02",
+  "title": "2. SQL Server Data Types and NULLs",
+  "description": "Test page to verify fonts, code blocks, headings, sidebar, and layout.",
+  "source": "@site/docs/SQL/chapter/chapter-02.md",
+  "sourceDirName": "SQL/chapter",
+  "slug": "/sql/chapter-02",
+  "permalink": "/docs/sql/chapter-02",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/chapter-02.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "slug": "/sql/chapter-02",
+    "title": "2. SQL Server Data Types and NULLs",
+    "description": "Test page to verify fonts, code blocks, headings, sidebar, and layout.",
+    "sidebar_position": 3
+  },
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "1. Introduction & Getting Started",
+    "permalink": "/docs/SQL/chapter/chapter-01"
+  },
+  "next": {
+    "title": "Chapter 3 — DDL (CREATE, ALTER, DROP) and Constraints",
+    "permalink": "/docs/SQL/chapter/chapter-03"
+  }
+}

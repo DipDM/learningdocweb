@@ -1,0 +1,29 @@
+{
+  "id": "Linq/chapter/chapter-11",
+  "title": "Chapter 11: IEnumerable vs IQueryable & Expression Trees",
+  "description": "Understanding the crucial differences between IEnumerable and IQueryable for performance optimization",
+  "source": "@site/docs/Linq/chapter/chapter-11.md",
+  "sourceDirName": "Linq/chapter",
+  "slug": "/Linq/chapter/chapter-11",
+  "permalink": "/docs/Linq/chapter/chapter-11",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linq/chapter/chapter-11.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "title": "Chapter 11: IEnumerable vs IQueryable & Expression Trees",
+    "description": "Understanding the crucial differences between IEnumerable and IQueryable for performance optimization"
+  },
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "Chapter 10: Deferred vs Immediate Execution",
+    "permalink": "/docs/Linq/chapter/chapter-10"
+  },
+  "next": {
+    "title": "Chapter 12: Advanced LINQ Techniques",
+    "permalink": "/docs/Linq/chapter/chapter-12"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "SQL/chapter/chapter-05",
+  "title": "Chapter 5 — Filtering, Sorting, and Aggregation",
+  "description": "WHERE, ORDER BY, DISTINCT, GROUP BY, HAVING, ROLLUP, CUBE, GROUPING SETS",
+  "source": "@site/docs/SQL/chapter/chapter-05.md",
+  "sourceDirName": "SQL/chapter",
+  "slug": "/SQL/chapter/chapter-05",
+  "permalink": "/docs/SQL/chapter/chapter-05",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/chapter-05.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "Chapter 4 — DML (Data Manipulation Language)",
+    "permalink": "/docs/SQL/chapter/chapter-04"
+  },
+  "next": {
+    "title": "Chapter 6 — Joins and Set Operators",
+    "permalink": "/docs/SQL/chapter/chapter-06"
+  }
+}

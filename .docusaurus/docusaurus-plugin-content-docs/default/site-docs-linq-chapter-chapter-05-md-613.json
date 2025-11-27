@@ -1,0 +1,38 @@
+{
+  "id": "Linq/chapter/chapter-05",
+  "title": "Joining in LINQ",
+  "description": "Learn about different types of joins in LINQ including inner join, left outer join, group join, and cross join with practical examples",
+  "source": "@site/docs/Linq/chapter/chapter-05.md",
+  "sourceDirName": "Linq/chapter",
+  "slug": "/Linq/chapter/chapter-05",
+  "permalink": "/docs/Linq/chapter/chapter-05",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linq/chapter/chapter-05.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Joining in LINQ",
+    "description": "Learn about different types of joins in LINQ including inner join, left outer join, group join, and cross join with practical examples",
+    "keywords": [
+      "LINQ",
+      "joins",
+      "inner join",
+      "left outer join",
+      "group join",
+      "cross join",
+      "C#"
+    ]
+  },
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "Chapter 4: Grouping in LINQ",
+    "permalink": "/docs/Linq/chapter/chapter-04"
+  },
+  "next": {
+    "title": "Aggregation and Summary Operators",
+    "permalink": "/docs/Linq/chapter/chapter-06"
+  }
+}

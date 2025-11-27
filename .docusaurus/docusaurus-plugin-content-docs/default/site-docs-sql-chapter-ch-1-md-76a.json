@@ -1,0 +1,29 @@
+{
+  "id": "SQL/chapter/ch-1",
+  "title": "SQL Basics — SELECT, WHERE, JOIN",
+  "description": "1. Sample schema",
+  "source": "@site/docs/SQL/chapter/ch-1.md",
+  "sourceDirName": "SQL/chapter",
+  "slug": "/sql/basics",
+  "permalink": "/docs/sql/basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/ch-1.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "slug": "/sql/basics",
+    "title": "SQL Basics — SELECT, WHERE, JOIN",
+    "sidebar_position": 2
+  },
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "SQL — Introduction",
+    "permalink": "/docs/sql/intro"
+  },
+  "next": {
+    "title": "Introduction & Getting Started",
+    "permalink": "/docs/SQL/chapter/ch-01"
+  }
+}

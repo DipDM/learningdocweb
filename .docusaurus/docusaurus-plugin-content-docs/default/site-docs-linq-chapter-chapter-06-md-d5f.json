@@ -1,0 +1,41 @@
+{
+  "id": "Linq/chapter/chapter-06",
+  "title": "Aggregation and Summary Operators",
+  "description": "Master LINQ aggregation operators including Count, Sum, Average, Min, Max, and custom Aggregate for data analysis",
+  "source": "@site/docs/Linq/chapter/chapter-06.md",
+  "sourceDirName": "Linq/chapter",
+  "slug": "/Linq/chapter/chapter-06",
+  "permalink": "/docs/Linq/chapter/chapter-06",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linq/chapter/chapter-06.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Aggregation and Summary Operators",
+    "description": "Master LINQ aggregation operators including Count, Sum, Average, Min, Max, and custom Aggregate for data analysis",
+    "keywords": [
+      "LINQ",
+      "aggregation",
+      "Count",
+      "Sum",
+      "Average",
+      "Min",
+      "Max",
+      "Aggregate",
+      "C#",
+      "data analysis"
+    ]
+  },
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "Joining in LINQ",
+    "permalink": "/docs/Linq/chapter/chapter-05"
+  },
+  "next": {
+    "title": "Set Operations in LINQ",
+    "permalink": "/docs/Linq/chapter/chapter-07"
+  }
+}

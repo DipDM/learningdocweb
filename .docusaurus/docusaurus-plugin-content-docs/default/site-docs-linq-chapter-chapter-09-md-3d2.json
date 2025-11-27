@@ -1,0 +1,39 @@
+{
+  "id": "Linq/chapter/chapter-09",
+  "title": "Partitioning Operators",
+  "description": "Master LINQ partitioning operators including Skip, Take, SkipWhile, and TakeWhile for pagination and data segmentation",
+  "source": "@site/docs/Linq/chapter/chapter-09.md",
+  "sourceDirName": "Linq/chapter",
+  "slug": "/Linq/chapter/chapter-09",
+  "permalink": "/docs/Linq/chapter/chapter-09",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linq/chapter/chapter-09.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Partitioning Operators",
+    "description": "Master LINQ partitioning operators including Skip, Take, SkipWhile, and TakeWhile for pagination and data segmentation",
+    "keywords": [
+      "LINQ",
+      "partitioning",
+      "Skip",
+      "Take",
+      "SkipWhile",
+      "TakeWhile",
+      "pagination",
+      "C#"
+    ]
+  },
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "Element & Quantifier Operators",
+    "permalink": "/docs/Linq/chapter/chapter-08"
+  },
+  "next": {
+    "title": "Chapter 10: Deferred vs Immediate Execution",
+    "permalink": "/docs/Linq/chapter/chapter-10"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Linq/chapter/chapter-13",
+  "title": "Chapter 13: Real-World LINQ Scenarios",
+  "description": "Combining joins, grouping, and projections for complex business queries",
+  "source": "@site/docs/Linq/chapter/chapter-13.md",
+  "sourceDirName": "Linq/chapter",
+  "slug": "/Linq/chapter/chapter-13",
+  "permalink": "/docs/Linq/chapter/chapter-13",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linq/chapter/chapter-13.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13,
+    "title": "Chapter 13: Real-World LINQ Scenarios",
+    "description": "Combining joins, grouping, and projections for complex business queries"
+  },
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "Chapter 12: Advanced LINQ Techniques",
+    "permalink": "/docs/Linq/chapter/chapter-12"
+  },
+  "next": {
+    "title": "Chapter 14: LINQ Performance Optimization",
+    "permalink": "/docs/Linq/chapter/chapter-14"
+  }
+}

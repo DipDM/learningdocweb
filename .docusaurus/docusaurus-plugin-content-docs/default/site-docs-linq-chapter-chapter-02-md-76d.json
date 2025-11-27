@@ -1,0 +1,29 @@
+{
+  "id": "Linq/chapter/chapter-02",
+  "title": "Chapter 2: LINQ Filtering and Sorting",
+  "description": "Master filtering and sorting operations in LINQ",
+  "source": "@site/docs/Linq/chapter/chapter-02.md",
+  "sourceDirName": "Linq/chapter",
+  "slug": "/Linq/chapter/chapter-02",
+  "permalink": "/docs/Linq/chapter/chapter-02",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linq/chapter/chapter-02.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Chapter 2: LINQ Filtering and Sorting",
+    "description": "Master filtering and sorting operations in LINQ"
+  },
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "Chapter 1: Introduction to LINQ",
+    "permalink": "/docs/Linq/chapter/chapter-01"
+  },
+  "next": {
+    "title": "Chapter 3: Projection and Transformation in LINQ",
+    "permalink": "/docs/Linq/chapter/chapter-03"
+  }
+}

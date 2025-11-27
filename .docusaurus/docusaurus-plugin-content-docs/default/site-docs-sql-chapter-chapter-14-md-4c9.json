@@ -1,0 +1,24 @@
+{
+  "id": "SQL/chapter/chapter-14",
+  "title": "chapter-14",
+  "description": "",
+  "source": "@site/docs/SQL/chapter/chapter-14.md",
+  "sourceDirName": "SQL/chapter",
+  "slug": "/SQL/chapter/chapter-14",
+  "permalink": "/docs/SQL/chapter/chapter-14",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/chapter-14.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chapter-13",
+    "permalink": "/docs/SQL/chapter/chapter-13"
+  },
+  "next": {
+    "title": "chapter-15",
+    "permalink": "/docs/SQL/chapter/chapter-15"
+  }
+}

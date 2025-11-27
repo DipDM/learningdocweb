@@ -1,0 +1,24 @@
+{
+  "id": "SQL/chapter/chapter-11",
+  "title": "chapter-11",
+  "description": "das",
+  "source": "@site/docs/SQL/chapter/chapter-11.md",
+  "sourceDirName": "SQL/chapter",
+  "slug": "/SQL/chapter/chapter-11",
+  "permalink": "/docs/SQL/chapter/chapter-11",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/chapter-11.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "CHAPTER 10 — Indexes & Query Optimization",
+    "permalink": "/docs/SQL/chapter/chapter-10"
+  },
+  "next": {
+    "title": "LINQ Masterclass — From Basics to Advanced (C#)",
+    "permalink": "/docs/Linq/intro"
+  }
+}

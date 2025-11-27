@@ -1,0 +1,39 @@
+{
+  "id": "Linq/chapter/chapter-07",
+  "title": "Set Operations in LINQ",
+  "description": "Learn LINQ set operations including Distinct, Union, Intersect, Except, and SequenceEqual for working with collections",
+  "source": "@site/docs/Linq/chapter/chapter-07.md",
+  "sourceDirName": "Linq/chapter",
+  "slug": "/Linq/chapter/chapter-07",
+  "permalink": "/docs/Linq/chapter/chapter-07",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linq/chapter/chapter-07.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Set Operations in LINQ",
+    "description": "Learn LINQ set operations including Distinct, Union, Intersect, Except, and SequenceEqual for working with collections",
+    "keywords": [
+      "LINQ",
+      "set operations",
+      "Distinct",
+      "Union",
+      "Intersect",
+      "Except",
+      "SequenceEqual",
+      "C#"
+    ]
+  },
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "Aggregation and Summary Operators",
+    "permalink": "/docs/Linq/chapter/chapter-06"
+  },
+  "next": {
+    "title": "Element & Quantifier Operators",
+    "permalink": "/docs/Linq/chapter/chapter-08"
+  }
+}

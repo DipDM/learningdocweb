@@ -1,0 +1,24 @@
+{
+  "id": "SQL/chapter/chapter-09",
+  "title": "CHAPTER 9 — Window (Analytic) Functions",
+  "description": "ROW_NUMBER, RANK, DENSE_RANK, NTILE, LEAD/LAG, SUM OVER, AVG OVER, PARTITION BY, ORDER BY",
+  "source": "@site/docs/SQL/chapter/chapter-09.md",
+  "sourceDirName": "SQL/chapter",
+  "slug": "/SQL/chapter/chapter-09",
+  "permalink": "/docs/SQL/chapter/chapter-09",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/chapter-09.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "CHAPTER 8 — Common Table Expressions (CTEs) and Recursive Queries",
+    "permalink": "/docs/SQL/chapter/chapter-08"
+  },
+  "next": {
+    "title": "CHAPTER 10 — Indexes & Query Optimization",
+    "permalink": "/docs/SQL/chapter/chapter-10"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "SQL/chapter/chapter-07",
+  "title": "Chapter 7 — Subqueries and Derived Tables",
+  "description": "Scalar, Multi-row, Correlated, Nested Subqueries, and Derived Tables",
+  "source": "@site/docs/SQL/chapter/chapter-07.md",
+  "sourceDirName": "SQL/chapter",
+  "slug": "/SQL/chapter/chapter-07",
+  "permalink": "/docs/SQL/chapter/chapter-07",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/chapter-07.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "Chapter 6 — Joins and Set Operators",
+    "permalink": "/docs/SQL/chapter/chapter-06"
+  },
+  "next": {
+    "title": "CHAPTER 8 — Common Table Expressions (CTEs) and Recursive Queries",
+    "permalink": "/docs/SQL/chapter/chapter-08"
+  }
+}

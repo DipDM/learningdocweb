@@ -1,0 +1,20 @@
+{
+  "id": "SQL/chapter/ch-01",
+  "title": "1. Introduction & Getting Started",
+  "description": "Below are the individual markdown files prepared for Chapter 1. Each section is ready to be saved as a separate .md file under docs/content/SQL/01-introduction/.",
+  "source": "@site/docs/SQL/chapter/ch-01.md",
+  "sourceDirName": "SQL/chapter",
+  "slug": "/SQL/chapter/ch-01",
+  "permalink": "/docs/SQL/chapter/ch-01",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/ch-01.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "SQL — Introduction",
+    "permalink": "/docs/sql/intro"
+  }
+}

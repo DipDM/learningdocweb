@@ -1,0 +1,24 @@
+{
+  "id": "Linq/chapter/chapter-04",
+  "title": "Chapter 4: Grouping in LINQ",
+  "description": "4.1 What is Grouping",
+  "source": "@site/docs/Linq/chapter/chapter-04.md",
+  "sourceDirName": "Linq/chapter",
+  "slug": "/Linq/chapter/chapter-04",
+  "permalink": "/docs/Linq/chapter/chapter-04",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linq/chapter/chapter-04.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "Chapter 3: Projection and Transformation in LINQ",
+    "permalink": "/docs/Linq/chapter/chapter-03"
+  },
+  "next": {
+    "title": "Joining in LINQ",
+    "permalink": "/docs/Linq/chapter/chapter-05"
+  }
+}

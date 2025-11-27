@@ -1,0 +1,24 @@
+{
+  "id": "SQL/chapter/chapter-20",
+  "title": "chapter-20",
+  "description": "",
+  "source": "@site/docs/SQL/chapter/chapter-20.md",
+  "sourceDirName": "SQL/chapter",
+  "slug": "/SQL/chapter/chapter-20",
+  "permalink": "/docs/SQL/chapter/chapter-20",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/chapter-20.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chapter-19",
+    "permalink": "/docs/SQL/chapter/chapter-19"
+  },
+  "next": {
+    "title": "Chapter 2: LINQ Filtering and Sorting",
+    "permalink": "/docs/Linq/chapter/chapter-02"
+  }
+}

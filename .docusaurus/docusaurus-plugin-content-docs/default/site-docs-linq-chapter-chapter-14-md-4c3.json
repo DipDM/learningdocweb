@@ -1,0 +1,25 @@
+{
+  "id": "Linq/chapter/chapter-14",
+  "title": "Chapter 14: LINQ Performance Optimization",
+  "description": "Best practices and optimization techniques for production-ready LINQ queries",
+  "source": "@site/docs/Linq/chapter/chapter-14.md",
+  "sourceDirName": "Linq/chapter",
+  "slug": "/Linq/chapter/chapter-14",
+  "permalink": "/docs/Linq/chapter/chapter-14",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linq/chapter/chapter-14.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14,
+    "title": "Chapter 14: LINQ Performance Optimization",
+    "description": "Best practices and optimization techniques for production-ready LINQ queries"
+  },
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "Chapter 13: Real-World LINQ Scenarios",
+    "permalink": "/docs/Linq/chapter/chapter-13"
+  }
+}

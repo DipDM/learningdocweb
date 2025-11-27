@@ -1,0 +1,24 @@
+{
+  "id": "Linq/chapter/chapter-01",
+  "title": "Chapter 1: Introduction to LINQ",
+  "description": "1.1 What is LINQ",
+  "source": "@site/docs/Linq/chapter/chapter-01.md",
+  "sourceDirName": "Linq/chapter",
+  "slug": "/Linq/chapter/chapter-01",
+  "permalink": "/docs/Linq/chapter/chapter-01",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linq/chapter/chapter-01.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "LINQ Masterclass — From Basics to Advanced (C#)",
+    "permalink": "/docs/Linq/intro"
+  },
+  "next": {
+    "title": "Chapter 2: LINQ Filtering and Sorting",
+    "permalink": "/docs/Linq/chapter/chapter-02"
+  }
+}

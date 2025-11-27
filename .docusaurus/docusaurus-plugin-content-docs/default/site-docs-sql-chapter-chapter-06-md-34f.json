@@ -1,0 +1,24 @@
+{
+  "id": "SQL/chapter/chapter-06",
+  "title": "Chapter 6 — Joins and Set Operators",
+  "description": "INNER, LEFT, RIGHT, FULL, CROSS, SELF, APPLY, UNION, INTERSECT, EXCEPT",
+  "source": "@site/docs/SQL/chapter/chapter-06.md",
+  "sourceDirName": "SQL/chapter",
+  "slug": "/SQL/chapter/chapter-06",
+  "permalink": "/docs/SQL/chapter/chapter-06",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/chapter-06.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "learningSidebar",
+  "previous": {
+    "title": "Chapter 5 — Filtering, Sorting, and Aggregation",
+    "permalink": "/docs/SQL/chapter/chapter-05"
+  },
+  "next": {
+    "title": "Chapter 7 — Subqueries and Derived Tables",
+    "permalink": "/docs/SQL/chapter/chapter-07"
+  }
+}
