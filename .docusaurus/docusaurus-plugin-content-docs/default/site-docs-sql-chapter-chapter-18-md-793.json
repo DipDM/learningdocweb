@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "chapter-17",
-    "permalink": "/docs/SQL/chapter/chapter-17"
+    "title": "CHAPTER 10 — Indexes & Query Optimization",
+    "permalink": "/docs/SQL/chapter/chapter-10"
   },
   "next": {
     "title": "chapter-19",

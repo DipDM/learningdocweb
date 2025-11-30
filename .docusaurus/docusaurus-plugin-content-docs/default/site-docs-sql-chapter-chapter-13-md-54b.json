@@ -1,7 +1,7 @@
 {
   "id": "SQL/chapter/chapter-13",
-  "title": "chapter-13",
-  "description": "",
+  "title": "Stored Procedures, Functions & Triggers",
+  "description": "Complete guide to SQL Server stored procedures, scalar and table-valued functions, views, and triggers with interview-level depth",
   "source": "@site/docs/SQL/chapter/chapter-13.md",
   "sourceDirName": "SQL/chapter",
   "slug": "/SQL/chapter/chapter-13",
@@ -11,14 +11,29 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/chapter-13.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13,
+    "title": "Stored Procedures, Functions & Triggers",
+    "description": "Complete guide to SQL Server stored procedures, scalar and table-valued functions, views, and triggers with interview-level depth",
+    "keywords": [
+      "SQL Server",
+      "stored procedures",
+      "functions",
+      "triggers",
+      "views",
+      "scalar functions",
+      "table-valued functions",
+      "database programming"
+    ]
+  },
+  "sidebar": "learningSidebar",
   "previous": {
-    "title": "chapter-12",
+    "title": "Constraints, Defaults & Data Integrity",
     "permalink": "/docs/SQL/chapter/chapter-12"
   },
   "next": {
-    "title": "chapter-14",
+    "title": "Error Handling & T-SQL Best Practices",
     "permalink": "/docs/SQL/chapter/chapter-14"
   }
 }

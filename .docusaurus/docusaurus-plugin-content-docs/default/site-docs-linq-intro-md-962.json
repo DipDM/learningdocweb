@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "learningSidebar",
   "previous": {
-    "title": "chapter-11",
-    "permalink": "/docs/SQL/chapter/chapter-11"
+    "title": "Dynamic SQL, Parameterization & Security",
+    "permalink": "/docs/SQL/chapter/chapter-15"
   },
   "next": {
     "title": "Chapter 1: Introduction to LINQ",

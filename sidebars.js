@@ -39,6 +39,11 @@ const sidebars = {
         'SQL/chapter/chapter-09',
         'SQL/chapter/chapter-10',
         'SQL/chapter/chapter-11',
+        'SQL/chapter/chapter-12',
+        'SQL/chapter/chapter-13',
+        'SQL/chapter/chapter-14',
+        'SQL/chapter/chapter-15',
+
 
       ],
     },

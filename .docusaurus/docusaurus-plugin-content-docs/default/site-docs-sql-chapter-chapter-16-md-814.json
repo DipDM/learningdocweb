@@ -1,7 +1,7 @@
 {
   "id": "SQL/chapter/chapter-16",
-  "title": "chapter-16",
-  "description": "",
+  "title": "Working with JSON & XML",
+  "description": "Master JSON and XML in SQL Server including OPENJSON, FOR JSON, XML nodes, value(), query(), and data shredding",
   "source": "@site/docs/SQL/chapter/chapter-16.md",
   "sourceDirName": "SQL/chapter",
   "slug": "/SQL/chapter/chapter-16",
@@ -11,14 +11,31 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/chapter-16.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16,
+    "title": "Working with JSON & XML",
+    "description": "Master JSON and XML in SQL Server including OPENJSON, FOR JSON, XML nodes, value(), query(), and data shredding",
+    "keywords": [
+      "SQL Server",
+      "JSON",
+      "XML",
+      "OPENJSON",
+      "FOR JSON",
+      "JSON_VALUE",
+      "JSON_QUERY",
+      "XML nodes",
+      "XQuery",
+      "data parsing"
+    ]
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "chapter-15",
+    "title": "Dynamic SQL, Parameterization & Security",
     "permalink": "/docs/SQL/chapter/chapter-15"
   },
   "next": {
-    "title": "chapter-17",
+    "title": "Full-Text Search, Spatial Data & Specialized Features",
     "permalink": "/docs/SQL/chapter/chapter-17"
   }
 }

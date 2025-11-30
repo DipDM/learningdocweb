@@ -1,7 +1,7 @@
 {
   "id": "SQL/chapter/chapter-17",
-  "title": "chapter-17",
-  "description": "",
+  "title": "Full-Text Search, Spatial Data & Specialized Features",
+  "description": "Master SQL Server Full-Text Search, Spatial Data types (Geometry/Geography), HierarchyID, and specialized features",
   "source": "@site/docs/SQL/chapter/chapter-17.md",
   "sourceDirName": "SQL/chapter",
   "slug": "/SQL/chapter/chapter-17",
@@ -11,14 +11,31 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/chapter-17.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17,
+    "title": "Full-Text Search, Spatial Data & Specialized Features",
+    "description": "Master SQL Server Full-Text Search, Spatial Data types (Geometry/Geography), HierarchyID, and specialized features",
+    "keywords": [
+      "SQL Server",
+      "full-text search",
+      "CONTAINS",
+      "FREETEXT",
+      "spatial data",
+      "geometry",
+      "geography",
+      "HierarchyID",
+      "columnstore",
+      "filestream"
+    ]
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "chapter-16",
+    "title": "Working with JSON & XML",
     "permalink": "/docs/SQL/chapter/chapter-16"
   },
   "next": {
-    "title": "chapter-18",
-    "permalink": "/docs/SQL/chapter/chapter-18"
+    "title": "1. Introduction & Getting Started",
+    "permalink": "/docs/SQL/chapter/chapter-01"
   }
 }

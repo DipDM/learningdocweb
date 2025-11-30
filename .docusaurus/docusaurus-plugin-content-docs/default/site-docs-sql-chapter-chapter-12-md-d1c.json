@@ -1,7 +1,7 @@
 {
   "id": "SQL/chapter/chapter-12",
-  "title": "chapter-12",
-  "description": "",
+  "title": "Constraints, Defaults & Data Integrity",
+  "description": "Master SQL Server constraints including PRIMARY KEY, FOREIGN KEY, UNIQUE, CHECK, DEFAULT, and CASCADE operations for data integrity",
   "source": "@site/docs/SQL/chapter/chapter-12.md",
   "sourceDirName": "SQL/chapter",
   "slug": "/SQL/chapter/chapter-12",
@@ -11,14 +11,31 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/chapter-12.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12,
+    "title": "Constraints, Defaults & Data Integrity",
+    "description": "Master SQL Server constraints including PRIMARY KEY, FOREIGN KEY, UNIQUE, CHECK, DEFAULT, and CASCADE operations for data integrity",
+    "keywords": [
+      "SQL Server",
+      "constraints",
+      "primary key",
+      "foreign key",
+      "unique",
+      "check",
+      "default",
+      "cascade",
+      "data integrity",
+      "database"
+    ]
+  },
+  "sidebar": "learningSidebar",
   "previous": {
-    "title": "chapter-11",
+    "title": "CHAPTER-11 - Transactions, Locking & Isolation Levels",
     "permalink": "/docs/SQL/chapter/chapter-11"
   },
   "next": {
-    "title": "chapter-13",
+    "title": "Stored Procedures, Functions & Triggers",
     "permalink": "/docs/SQL/chapter/chapter-13"
   }
 }

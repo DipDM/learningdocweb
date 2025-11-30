@@ -1,7 +1,7 @@
 {
   "id": "SQL/chapter/chapter-15",
-  "title": "chapter-15",
-  "description": "",
+  "title": "Dynamic SQL, Parameterization & Security",
+  "description": "Master SQL Server dynamic SQL with sp_executesql, prevent SQL injection, and learn safe parameterization techniques",
   "source": "@site/docs/SQL/chapter/chapter-15.md",
   "sourceDirName": "SQL/chapter",
   "slug": "/SQL/chapter/chapter-15",
@@ -11,14 +11,29 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SQL/chapter/chapter-15.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "tutorialSidebar",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15,
+    "title": "Dynamic SQL, Parameterization & Security",
+    "description": "Master SQL Server dynamic SQL with sp_executesql, prevent SQL injection, and learn safe parameterization techniques",
+    "keywords": [
+      "SQL Server",
+      "dynamic SQL",
+      "sp_executesql",
+      "SQL injection",
+      "parameterization",
+      "QUOTENAME",
+      "security",
+      "EXEC"
+    ]
+  },
+  "sidebar": "learningSidebar",
   "previous": {
-    "title": "chapter-14",
+    "title": "Error Handling & T-SQL Best Practices",
     "permalink": "/docs/SQL/chapter/chapter-14"
   },
   "next": {
-    "title": "chapter-16",
-    "permalink": "/docs/SQL/chapter/chapter-16"
+    "title": "LINQ Masterclass — From Basics to Advanced (C#)",
+    "permalink": "/docs/Linq/intro"
   }
 }
